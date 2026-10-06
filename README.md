@@ -42,4 +42,6 @@
 
 ---
 
-**연락처** &emsp; <a href="mailto:hongseokhodev@gmail.com"><img src="https://img.shields.io/badge/hongseokhodev%40gmail.com-F6F8FA?style=flat&logo=gmail&logoColor=24292F" height="20" alt="hongseokhodev@gmail.com" /></a> <a href="https://github.com/cherry-go-round"><img src="https://img.shields.io/badge/GitHub-F6F8FA?style=flat&logo=github&logoColor=24292F" height="20" alt="GitHub" /></a>
+**연락처**
+
+<a href="mailto:hongseokhodev@gmail.com"><img src="https://img.shields.io/badge/hongseokhodev%40gmail.com-F6F8FA?style=flat&logo=gmail&logoColor=24292F" height="20" alt="hongseokhodev@gmail.com" /></a> <a href="https://github.com/cherry-go-round"><img src="https://img.shields.io/badge/GitHub-F6F8FA?style=flat&logo=github&logoColor=24292F" height="20" alt="GitHub" /></a>
